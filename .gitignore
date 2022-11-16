@@ -18,7 +18,3 @@ _site/
 .idea
 
 config.yaml
-assets/github.svg
-assets/grid.svg
-scripts/data.db
-src/static/activities.json
